@@ -1,0 +1,206 @@
+Running simulation iteration 2 
+Starting iteration: 2
+Baseline Scenarios GPS for iteration  2[1] "using cluster"
+        1         2         3 
+ 43.72265  25.53416 286.67076 
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+Best log-likelihood: -5159.069 
+
+Coarse Scenario for iteration  2[1] "using cluster"
+        1         2         3 
+ 13.13462 169.79500 262.31661 
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+Best log-likelihood: -4527.802 
+
+Summary Mean Scenario for iteration  2[1] "using cluster"
+          1           2           3 
+ 60.2331815   0.9208066 280.5087861 
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+Best log-likelihood: -3252.219 
+
+Summary Variance Scenario for iteration  2[1] "using cluster"
+         1          2          3 
+ 73.529025   3.688592 283.026303 
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+Best log-likelihood: -2304.887 
+       true
+decoded   1   2   3
+      1 437   0   0
+      2   0 132   3
+      3   0   4 324
+[1] 0.9922222
+
+Summary Median Scenario for iteration  2[1] "using cluster"
+         1          2          3 
+ 60.488578 280.647517   2.478174 
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+Best log-likelihood: -3320.343 
+       true
+decoded   1   2   3
+      1 437   0   0
+      2   0 134   1
+      3   0   2 326
+[1] 0.9966667
+
+Summars Stats Scenario for iteration  2[1] "using cluster"
+         1          2          3 
+283.808757  65.809133   1.400123 
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+Best log-likelihood: -6816.434 
+
+Density Scenario for iteration  2[1] "using cluster"
+        1         2         3 
+ 43.72265  25.53416 286.67076 
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+Best log-likelihood: 1494.959 
+
+Quantile Scenario for iteration  2[1] "using cluster"
+        1         2         3 
+ 43.72265  25.53416 286.67076 
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+[1] "using random number gen"
+Best log-likelihood: 9600.831 
+Saved sim_results/run_0002.rds
