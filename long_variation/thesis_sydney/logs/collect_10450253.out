@@ -1,0 +1,8 @@
+Found 20 result files (iterations 1 to 20 ).
+        acc_base_gps           acc_coarse     acc_summary_mean 
+           0.6433611            0.6545556            0.9999722 
+     acc_summary_var      acc_summary_med    acc_summary_stats 
+           0.9994444            0.9999167            0.9999722 
+ acc_summary_density acc_summary_quantile 
+           0.9893056            0.9997500 
+Wrote output_fix_long.csv, cm_results_fix_long.rds, param_results_fix_long.rds
